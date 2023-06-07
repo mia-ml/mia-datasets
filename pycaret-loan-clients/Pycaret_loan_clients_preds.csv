@@ -1,0 +1,50 @@
+Month,credit_amount,credit_term,Age,sex,education,product_type,having_children_flg,region,income,family_status,phone_operator,is_client
+10,7000,6,25,0,Secondary special education,1,0,0,21000,1,0,0
+10,19000,3,54,0,Secondary special education,3,1,1,17000,1,3,0
+1,29000,2,36,0,Secondary special education,1,0,2,31000,1,2,0
+11,10000,6,46,0,Secondary special education,0,1,1,31000,1,3,0
+4,14500,4,39,0,Higher education,1,0,1,26000,1,0,0
+5,32500,8,43,0,Secondary special education,0,0,1,26000,0,0,0
+7,8000,2,51,0,Higher education,1,0,1,21000,1,0,0
+1,20000,17,26,0,Higher education,0,0,2,33000,1,2,0
+8,26000,5,23,0,Secondary special education,0,0,1,31000,1,2,0
+10,15000,6,54,0,Secondary special education,2,1,1,26000,1,3,0
+11,30000,3,35,1,Secondary special education,1,1,2,18000,1,0,1
+5,30500,4,34,0,Secondary special education,0,1,1,21000,1,1,1
+9,37000,2,29,0,Secondary special education,2,1,1,51000,0,3,0
+5,37000,2,25,0,Higher education,1,0,1,71000,1,1,0
+4,29500,16,40,1,Higher education,0,0,1,16000,1,0,0
+10,28500,5,22,1,Higher education,1,0,1,36000,1,2,0
+2,22000,4,46,0,Secondary special education,0,0,2,,0,2,1
+5,13000,4,22,0,Higher education,1,0,1,19000,1,1,0
+12,51000,4,38,0,Secondary special education,0,0,1,21000,0,1,0
+6,13500,6,21,0,Incomplete higher education,0,0,1,21000,1,1,0
+9,10000,16,27,0,Secondary special education,1,1,0,21000,1,0,0
+2,30000,16,41,1,Secondary education,0,1,6,26000,1,2,0
+4,28000,6,35,0,Secondary special education,1,1,1,16000,1,2,0
+5,14000,6,50,1,Secondary special education,3,0,7,24000,1,1,1
+1,30000,7,29,0,Secondary special education,1,1,1,31000,1,0,1
+2,25000,9,33,0,Higher education,0,1,2,41000,1,1,1
+3,152000,11,51,0,Higher education,2,1,1,56000,1,2,0
+11,62000,3,31,0,Higher education,0,0,1,41000,1,3,0
+8,18500,16,31,0,Higher education,0,1,0,36000,0,0,0
+7,9500,14,41,0,Secondary special education,2,1,1,26000,0,1,0
+8,24500,16,27,0,Higher education,1,1,8,26000,0,0,0
+2,26000,17,32,0,Higher education,1,1,2,51000,1,3,1
+7,15000,4,32,0,Incomplete higher education,0,1,1,36000,1,2,1
+3,8500,5,56,0,Secondary education,2,1,1,19000,0,1,0
+6,12000,2,39,1,Secondary special education,0,0,1,21000,1,2,0
+1,17500,16,23,0,Incomplete higher education,0,0,0,,1,0,0
+11,17000,16,28,1,Secondary special education,2,0,2,22000,1,1,0
+2,18000,16,26,0,Secondary education,1,0,1,36000,1,1,0
+3,15000,16,41,1,Secondary special education,0,0,0,16000,1,0,0
+10,10500,2,22,0,Higher education,0,1,0,21000,1,1,1
+11,23500,5,31,0,Secondary special education,1,1,0,19000,1,1,0
+11,18000,4,25,0,Higher education,0,0,0,46000,0,0,0
+3,37500,16,47,1,Higher education,2,1,1,51000,0,1,0
+12,23500,5,29,0,Higher education,1,0,2,31000,1,1,1
+8,40500,2,25,1,Secondary special education,2,1,3,31000,1,2,0
+10,28500,5,33,0,Secondary special education,3,1,1,18000,1,1,0
+5,25500,16,36,1,Higher education,0,0,1,26000,1,0,0
+9,11000,3,28,0,Secondary special education,0,0,0,,1,2,1
+2,16000,9,26,0,Secondary special education,1,0,0,26000,1,1,0
